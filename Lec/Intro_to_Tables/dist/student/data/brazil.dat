@@ -1,0 +1,9 @@
+The method choice data from brazil has three columns. 
+The first col is age group, method can be sterilization, efficient, inefficient or not_using, frequency is the number of women in each age/method combination.
+Age-group,Method,Frequency
+15-19,sterilization,2
+15-19,efficient,75
+15-19,inefficient,6
+15-19,not_using,90
+20-24,sterilization,32
+20-24,efficient,223
